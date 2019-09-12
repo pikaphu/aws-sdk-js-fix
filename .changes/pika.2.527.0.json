@@ -1,0 +1,7 @@
+[
+    {
+        "type": "feature",
+        "category": "S3",
+        "description": "Just fix uploading function by remove 'upload' from 'm.upload.addEventListener' at aws-sdk.min.js"
+    }    
+]
