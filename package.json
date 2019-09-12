@@ -1,7 +1,7 @@
 {
   "name": "pikaphu-aws-sdk",
-  "description": "AWS SDK for JavaScript",
-  "version": "pika.2.527.0",
+  "description": "AWS SDK for JavaScript (2.527.0)",
+  "version": "1.0.1",
   "author": {
     "name": "PikaPhu",
     "email": "",
