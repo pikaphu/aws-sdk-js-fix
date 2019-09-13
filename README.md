@@ -2,7 +2,9 @@
 I clone this from AWS SDK for JavaScript  
 Just for modify for my own projects.  
 
+-  version: 1.0.3 -- `fix xhr upload and progress"` (testing)
 -  version: 1.0.2 -- `fix xhr upload (S3 error: m.addEventListener("progress")` but httpUploadProgress not work :( 
+
 -----------
 
 [![NPM version](https://img.shields.io/npm/v/aws-sdk.svg)](https://www.npmjs.com/package/aws-sdk)
@@ -15,8 +17,11 @@ Just for modify for my own projects.
 [![Known Vulnerabilities](https://snyk.io/test/github/aws/aws-sdk-js/badge.svg)](https://snyk.io/test/github/aws/aws-sdk-js)
 --->
 ~~The official AWS SDK for JavaScript, available for browsers and mobile devices,
-or Node.js backends~~
+or Node.js backends~~  
+The PikaPhu's AWS SDK for JavaScript, available for browsers and mobile devices,
+or Node.js backends
 
+<!--
 For release notes, see the [CHANGELOG](https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md). Prior to v2.4.8, release notes can be found at https://aws.amazon.com/releasenotes/?tag=releasenotes%23keywords%23javascript
 
 If you are upgrading from 1.x to 2.0 of the SDK, please see the
@@ -190,3 +195,4 @@ Please see [SERVICES.md](https://github.com/aws/aws-sdk-js/blob/master/SERVICES.
 This SDK is distributed under the
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0),
 see LICENSE.txt and NOTICE.txt for more information.
+-->

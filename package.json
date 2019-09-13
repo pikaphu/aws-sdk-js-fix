@@ -1,7 +1,7 @@
 {
   "name": "pikaphu-aws-sdk",
-  "description": "AWS SDK for JavaScript (2.527.0) - Fix xhr upload ",
-  "version": "1.0.2",
+  "description": "AWS SDK for JavaScript (2.527.0) - Fix xhr upload + progress",
+  "version": "1.0.3",
   "author": {
     "name": "PikaPhu",
     "email": "",
